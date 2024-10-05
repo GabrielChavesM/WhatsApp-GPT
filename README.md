@@ -30,3 +30,5 @@ This project is a Python-based automation tool that enables seamless integration
 - Clone the repository.
 - Configure your Groq API key and phone number.
 - Run the script and interact with the AI chatbot via WhatsApp.
+
+![print](https://github.com/user-attachments/assets/3f149c7e-22e6-47f1-bbd2-c0559b429547)
